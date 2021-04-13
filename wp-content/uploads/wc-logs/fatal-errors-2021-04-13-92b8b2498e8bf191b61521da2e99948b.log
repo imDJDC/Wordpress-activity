@@ -1,0 +1,8 @@
+2021-04-13T10:46:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php on line 198
+
+2021-04-13T10:46:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor.php on line 493
+
+2021-04-13T10:55:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-v2-controller.php on line 19
+
+2021-04-13T10:55:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Orders\Stats\Segmenter.php on line 8
+
